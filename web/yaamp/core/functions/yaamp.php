@@ -79,7 +79,7 @@ function yaamp_get_algos()
 		'x25x',
 		'xevan',
 		'geek',
-		'gr',
+		'ghostrider',
 		'groestl', // dmd-gr -m 256 (deprecated)
 		'dmd-gr',
 		'myr-gr',
@@ -181,7 +181,7 @@ function yaamp_get_algo_norm($algo)
 		'lyra2'		=> 1.0,
 		'lyra2v2'	=> 1.0,
 		'lyra2v3'	=> 1.0,
-		'gr'		=> 0.001,
+		'ghostrider'		=> 0.001,
 		'yespowerARWN'		=> 0.001,
 		'myr-gr'	=> 1.0,
 		'nist5'		=> 1.0,
